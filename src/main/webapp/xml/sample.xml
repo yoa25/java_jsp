@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<members>
+	<member>
+		<id>koko</id>
+		<name>코코</name>
+		<age>3</age>
+	</member>
+		<member>
+		<id>momo</id>
+		<name>모모</name>
+		<age>5</age>
+	</member>
+
+</members>
